@@ -1,5 +1,12 @@
 # Exercises regarding distributed shortest path
 
+LINK _ https://levelup.gitconnected.com/finding-the-shortest-path-in-javascript-dijkstras-algorithm-8d16451eea34
+LINK _ https://github.com/noamsauerutley/shortest-path/blob/master/shortestPath.js
+LINK _ https://medium.com/@jpena91/dijkstras-algorithm-finding-the-shortest-path-in-javascript-a7247afe93b2
+LINK _ https://stackoverflow.com/questions/32527026/shortest-path-in-javascript
+LINK _ https://levelup.gitconnected.com/finding-the-shortest-path-in-javascript-dijkstras-algorithm-8d16451eea34
+LINK _ https://www.tutorialspoint.com/Dijkstra-s-algorithm-in-Javascript
+
 ## CAUTION
 When solving the following exercises we encourage you to only look at the files, that are mentioned in the specific assignment. Other folders / files e.g. v2 / v3 might contain hints or solutions. 
 ALSO: Before solving any of these exercises remember to run `npm install`
